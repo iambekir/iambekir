@@ -23,4 +23,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iambekir&" alt="iambekir" /></p>
 
 
-![snake gif](https://github.com/iambekir/iambekir/blob/output/github-contribution-grid-snake.gif)
+
+<p align="center">
+  <img src="https://github.com/iambekir/iambekir/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
